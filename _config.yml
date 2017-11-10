@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
@@ -15,7 +15,7 @@ title                    : "Second Head"
 title_separator          : "-"
 name                     : "Dmitry Kireev"
 description              : "This is my technical blog. Let me know if you find something useful."
-url                      : https://kireevco.github.io
+url                      : http://blog.kireev.co
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kireevco/kireevco.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

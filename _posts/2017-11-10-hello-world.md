@@ -10,4 +10,4 @@ image:
 ---
 
 This is my first post over here. Testing Jekyll.
-I'm planning to post mostly echnical articles around DevOps and SRE topics.t
+I'm planning to post mostly echnical articles around DevOps and SRE topics.
